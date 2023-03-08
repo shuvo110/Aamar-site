@@ -1,0 +1,106 @@
+
+body{
+    margin:0px;
+}
+#top-bener{
+    background-image: url(img/top-banner.png);
+
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    
+}
+
+h1{
+    font-family: 'Gloock', serif;
+
+    font-size: 25px;
+}
+span{
+    color:rgb(117, 245, 31);
+    
+}
+h2{
+    color: crimson;
+    border: 2px solid rgb(20, 235, 181);
+    display:inline-block;
+    border-radius: 5px;
+
+
+}
+p{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+}
+.have-width{
+    width:42%;
+    float: left;
+    margin-left:2%;
+    padding-left:3%;
+
+}
+.have-width img{
+    width:80%;
+}
+.link1{
+    text-decoration: none;
+    padding:2px;
+    margin-left:25%;
+    background-color: rgba(127, 255, 212, 0.851);
+    border-radius: 8px;
+    color: rgb(65, 33, 38);
+    font-size:15px;  
+
+}
+.link1:hover{
+    color: rgb(6, 58, 248);
+    background-color: rgba(240, 11, 236, 0.517);
+    border: 3px solid black;
+    font-size:16px;
+    transition:1s;
+}
+
+.have-width1{
+    width: 40%;
+    padding-right:2px;
+    margin-right:7%;
+    float:left;
+    margin-top:5%;
+}
+.have-width1 img{
+    width:90%;
+}
+#overflow{
+    width: 550px;
+    height:250px;
+    border: 1px solid rgb(227, 25, 242);
+    overflow: auto;
+    padding-left:4%;
+}
+.link2{
+    text-decoration: none;
+    padding:2px;
+    margin-top: 20%;
+    background-color: rgba(127, 255, 212, 0.851);
+    border-radius: 8px;
+    color: rgb(65, 33, 38);
+    font-size:20px;  
+}
+.link2:hover{
+    color: rgb(6, 58, 248);
+    background-color: rgba(240, 11, 236, 0.517);
+    border: 3px solid black;
+    font-size:22px;
+    transition:1s;
+}
+.box-shedo{
+    box-shadow: 2px 0px 30px rgb(151, 220, 40);
+    height:50%;
+    border-radius: 6px;
+    border-left:3px solid rgb(35, 222, 69);
+}
+.marjin{
+    border: 2px solid darkmagenta;
+    margin-top:10px;
+}
